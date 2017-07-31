@@ -1,0 +1,26 @@
+body{
+    background-image: url(file:///Users/Trent/Downloads/background.png);
+}
+#top-bar {
+  
+    width: 100%;
+    height: 20%;
+    text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;        
+}
+
+         a:link {
+                color: white;
+            }
+         a:visited {
+                color: white;
+            }
+        a:active {
+                background-color: white;
+            } 
+         
+         #god-himself {
+            text-align: center;
+         }
