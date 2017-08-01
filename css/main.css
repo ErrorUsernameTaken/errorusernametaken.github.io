@@ -24,3 +24,7 @@ body{
          #god-himself {
             text-align: center;
          }
+#god-himself:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
