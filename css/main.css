@@ -15,6 +15,7 @@ body{
          a:link {
                 color: white;
             }
+
          a:visited {
                 color: white;
             }
@@ -23,8 +24,4 @@ body{
             text-align: center;
          -webkit-transition: -webkit-transform .8s ease-in-out;
           transition:         transform .8s ease-in-out;
-}
-#god-himself:hover {
-  -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
 }
