@@ -3,7 +3,6 @@ body{
 }
 
 #top-bar {
-  
     width: 100%;
     height: 20%;
     text-align: center;
@@ -22,6 +21,4 @@ body{
         
          #god-himself {
             text-align: center;
-         -webkit-transition: -webkit-transform .8s ease-in-out;
-          transition:         transform .8s ease-in-out;
 }
