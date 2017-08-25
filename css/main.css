@@ -1,6 +1,11 @@
 body{
     background-image: url(http://i.imgur.com/EFGBOMl.jpg);   
 }
+
 #top-bar {
 text-align: center;
+}
+
+#text {
+  text-align: center;
 }
