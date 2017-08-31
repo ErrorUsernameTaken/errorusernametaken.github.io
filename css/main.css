@@ -1,26 +1,34 @@
-body {
+
+    body {
       background-color: #e5e5e5;
     }
 
-#top-bar {
-
-   position: absolute;
-    top: 15%;
-    left: 75%;
+#sites {
+ position: absolute;
+ text-align: center;
+    top: 75%;
     width: 100%;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 #thinking {
 position: absolute;
     top: 15%;
-    left: 15%;
+    left: 75%;
     width: 100%;
 }
 
-#my_site {
-  text-align: center;
+#thinking2 {
   position: absolute;
+  top: 15%;
+  left: 15%;
+  width: 100%;
+}
+
+#my_site {
+  position: absolute;
+  text-align: center;
     top: 15%;
-    left: 45;
     width: 100%;
 }
