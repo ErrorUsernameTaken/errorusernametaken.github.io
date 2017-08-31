@@ -1,1 +1,1 @@
-console.log('Why are you looking in the console? Get out!');
+//I'll put stuff here sometime. Maybe when I actually care.
