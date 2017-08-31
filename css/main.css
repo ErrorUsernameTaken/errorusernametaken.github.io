@@ -1,24 +1,22 @@
-body{
-    background-image: url(http://i.imgur.com/EFGBOMl.jpg);   
-}
-
 #top-bar {
+
+   position: absolute;
+    top: 15%;
+    left: 75%;
     width: 100%;
-    height: 20%;
-    text-align: center;
-            font-size: 30px;
-            font-weight: bold;
-            font-family: 'Arial', sans-serif;        
 }
 
-         a:link {
-                color: white;
-            }
+#thinking {
+position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 100%;
+}
 
-         a:visited {
-                color: white;
-            }
-        
-         #god-himself {
-            text-align: center;
+#my_site {
+  text-align: center;
+  position: absolute;
+    top: 15%;
+    left: 45;
+    width: 100%;
 }
