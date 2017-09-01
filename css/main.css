@@ -15,14 +15,14 @@
 #thinking {
 position: absolute;
     top: 15%;
-    left: 75%;
+    left: 72%;
     width: 100%;
 }
 
 #thinking2 {
   position: absolute;
   top: 15%;
-  left: 15%;
+  left: 25%;
   width: 100%;
 }
 
@@ -31,4 +31,20 @@ position: absolute;
   text-align: center;
     top: 15%;
     width: 100%;
+}
+
+#bar1 {
+position: absolute;
+top: 5%;
+left: 25%;
+}
+
+#bar2 {
+position: absolute;
+top: 54%;
+left: 25%;
+}
+
+#body {
+  
 }
