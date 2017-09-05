@@ -66,3 +66,10 @@ position: absolute;
     font-size: 1.5em;
     font-weight: bold;
 }
+
+#come-to-brazil {
+  position: absolute;
+  text-align: center;
+  top: 55%;
+  left: 43%;
+}
