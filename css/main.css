@@ -1,68 +1,23 @@
 body {
-      background-color: #e5e5e5;
+      background-image : url(http://i.imgur.com/EFGBOMl.jpg);
     }
-
-#sites {
- position: relative;
- text-align: center;
-    top: 490px;
+#top-bar {
+  
     width: 100%;
-    font-size: 1.5em;
-    font-weight: bold;
-    z-index: 1;
+    height: 20%;
+    text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;        
 }
 
-#thinking {
-position: relative;
-top: 84px;
-    left: 77%;
-    width: 100%;
-}
-
-#thinking2 {
-  position: relative;
-top: 30px;
-  left: 20%;
-  width: 100%;
-}
-
-#my_site {
-  position: relative;
-  text-align: center;
-    bottom: 55px;
-}
-
-#bar1 {
-position: relative;
-bottom: 66px;
-left: 280px;
-width: 61%;
-    color: #FFFFFF;
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
-#bar2 {
-position: relative;
-top: 275px;
-left: 280px;
-    width: 61%;
-    color: #FFFFFF;
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
-#head {
-  position: relative;
-  bottom: 120px;
- text-align: center;
-    width: 100%;
-    font-weight: bold;
-}
-#aboutme {
-   position: relative;
- text-align: center;
-bottom: 140px;
-    font-size: 1.5em;
-    font-weight: bold;
-}
-
-
+         a:link {
+                color: white;
+            }
+         a:visited {
+                color: white;
+            }
+        
+         #god-himself {
+            text-align: center;
+        }
