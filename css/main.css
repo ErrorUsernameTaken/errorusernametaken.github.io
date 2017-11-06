@@ -18,6 +18,12 @@ body {
                 color: white;
             }
         
-         #god-himself {
+         #thing {
             text-align: center;
+            font-weight: bold;
+        }
+
+        #thing2 {
+            text-align: center;
+            font-weight: bold;
         }
