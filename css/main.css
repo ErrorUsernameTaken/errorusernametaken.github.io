@@ -8,3 +8,7 @@ body {
     font-weight: bold;
     text-align: center;
       }
+/* unvisited link */
+a:link {
+    color: #ffffff;
+}
