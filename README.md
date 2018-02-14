@@ -2,4 +2,6 @@
 
 It's a website.
 
-todo: change links to pure white
+## Areas to contribute
+
+1. Change link colours to white
