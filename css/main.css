@@ -1,14 +1,14 @@
 body {
       background-image : url(https://i.imgur.com/2qX2XDD.jpg);
       background-repeat: no-repeat;
-    }
+}
 
 #links { 
     font-size: 23px;
     font-weight: bold;
     text-align: center;
     font-family: tahoma;
-      }
+}
 
 a:link {
     color: #ffffff;
