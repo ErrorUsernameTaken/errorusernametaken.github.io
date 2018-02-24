@@ -4,9 +4,10 @@ body {
     }
 
 #links { 
-    font-size: 25px;
+    font-size: 23px;
     font-weight: bold;
     text-align: center;
+    font-family: tahoma;
       }
 
 a:link {
