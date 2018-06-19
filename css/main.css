@@ -1,8 +1,5 @@
 body {
     background-image: url('https://i.imgur.com/2qX2XDD.jpg');
-    /* i want this image gone. i have had it for over a year (or
-    however long i've had my website and i'm sick of it but nothing
-    else works so i have to use this) */
     background-repeat: no-repeat;
 }
 
