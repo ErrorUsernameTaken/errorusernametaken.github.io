@@ -1,5 +1,3 @@
 # errorusernametaken.github.io
 
-It's a website.
-
-TODO: PROPERLY LINK CSS WHY ISN'T IT WORKING PFDHOUISHUBFDSAUHIOFADSW0IH
+yep.
