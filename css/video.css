@@ -7,3 +7,8 @@ body {
     text-align: center;
     padding-top: 15%;
 }
+
+#back-button {
+	position: relative;
+	top: 100px;
+}
